@@ -7,6 +7,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -63,7 +64,7 @@
 
 [website]: https://darkpixl.com
 [instagram]: https://instagram.com/viche_dev
-[linkedin]: www.linkedin.com/in/josé-ochoa-963970174
+[linkedin]: https://www.linkedin.com/in/josé-ochoa-963970174
 [webdevplaylist]: https://www.youtube.com/playlist?
 [jsplaylist]: https://www.youtube.com/playlist?
 [cssplaylist]: https://www.youtube.com/playlist?
